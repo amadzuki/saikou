@@ -53,3 +53,7 @@ Misc:
 
 - User can show their amount of likes based on their published reviews and lists.
 - User can see the list of characters or voice actors in the anime/manga.
+
+## UI/UX Design
+
+Figma: https://www.figma.com/file/j4lco2gQyoGtrY47DnzoTl/Saigo-no-Azobu
