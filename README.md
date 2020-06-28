@@ -1,6 +1,6 @@
-# Saigo no Azobu
+# Saikou
 
-Saigo no Azobu is a special project on Azobu Mentorship program.
+This is a special project on Azobu Mentorship program.
 
 ---
 
@@ -31,6 +31,10 @@ Misc:
 
 - [Jurnal Otaku](http://jurnalotaku.com)
 - [KAORI Nusantara](https://www.kaorinusantara.or.id)
+
+References:
+
+- [viz](https://www.viz.com/)
 
 ---
 
@@ -87,6 +91,7 @@ Figma: https://www.figma.com/file/j4lco2gQyoGtrY47DnzoTl/Saigo-no-Azobu
 | `/anime/:slug/reviews`           | AnimeReviews    |
 | `/manga`                         | MangaCollection |
 | `/manga/:slug`                   | Manga           |
+| `/manga/:slug/reviews`           | MangaReviews    |
 | `/search`                        | Search          |
 | `/register`                      | Register        |
 | `/login`                         | Login           |
