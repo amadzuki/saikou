@@ -20,12 +20,12 @@ Join these communities to identify the pros and cons from each of them.
 - [LINE OpenChat](https://line.me/ti/g2/d1YUYNUZ_tJDH0ywSe3VyQ)
 - [Anime Planet](https://anime-planet.com)
 - [YourStack](https://yourstack.com)
+- [Anilist](https://anilist.co/)
 
 Database:
 
 - [Jikan](https://jikan.moe)
   - [Documentation](https://jikan.docs.apiary.io)
-  -
 
 Misc:
 
@@ -35,8 +35,9 @@ Misc:
 References:
 
 - [viz](https://www.viz.com/)
-
----
+- [Anime Planet](https://anime-planet.com)
+- [Anichart](https://anichart.net)
+- [Anilist](https://anilist.co/)
 
 ## Features
 
@@ -82,23 +83,23 @@ Figma: https://www.figma.com/file/j4lco2gQyoGtrY47DnzoTl/Saigo-no-Azobu
 
 ### Pages
 
-| Page                             | Component       |
-| -------------------------------- | --------------- |
-| `/`                              | Home            |
-| `/about`                         | About           |
-| `/anime`                         | AnimeCollection |
-| `/anime/:slug`                   | Anime           |
-| `/anime/:slug/reviews`           | AnimeReviews    |
-| `/manga`                         | MangaCollection |
-| `/manga/:slug`                   | Manga           |
-| `/manga/:slug/reviews`           | MangaReviews    |
-| `/search`                        | Search          |
-| `/register`                      | Register        |
-| `/login`                         | Login           |
-| `/logout`                        | Logout          |
-| `/users/:username`               | UserProfile     |
-| `/users/:username/reviews`       | UserReviews     |
-| `/users/:username/reviews/:slug` | UserReview      |
-| `/users/:username/lists`         | UserLists       |
-| `/users/:username/lists/create`  | UserListCreate  |
-| `/users/:username/lists/:slug`   | UserList        |
+| Page                                 | Component       |
+| ------------------------------------ | --------------- |
+| `/`                                  | Home            |
+| `/about`                             | About           |
+| `/anime`                             | AnimeCollection |
+| `/anime/:id/:slug`                   | Anime           |
+| `/anime/:id/:slug/reviews`           | AnimeReviews    |
+| `/manga`                             | MangaCollection |
+| `/manga/:id/:slug`                   | Manga           |
+| `/manga/:id/:slug/reviews`           | MangaReviews    |
+| `/search`                            | Search          |
+| `/register`                          | Register        |
+| `/login`                             | Login           |
+| `/logout`                            | Logout          |
+| `/users/:id/:username`               | UserProfile     |
+| `/users/:id/:username/reviews`       | UserReviews     |
+| `/users/:id/:username/reviews/:slug` | UserReview      |
+| `/users/:id/:username/lists`         | UserLists       |
+| `/users/:id/:username/lists/create`  | UserListCreate  |
+| `/users/:id/:username/lists/:slug`   | UserList        |
