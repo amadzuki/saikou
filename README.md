@@ -50,13 +50,21 @@ References:
 - Admin can edit anime/manga details.
 - Admin can delete one or more anime/manga details.
 - User can see available anime/manga collection.
-- User can get generated profile picture and username.
+- User can choose available avatar.
 - User can read the details about one anime/manga.
 - User can favorite and unfavorite one anime/manga.
 - User can see other user's favorites of anime/manga.
-- User can interact with other user through user profile and anime review.
 - User can review a certain anime/manga.
 - User can search an anime or manga.
+
+### Future Features List
+
+- User can interact with other user through user profile and anime review.
+- User have to confirm their email after registration.
+- User can reset their password with reset link via email.
+- User can show their amount of likes based on their published reviews and lists.
+- User can see the list of characters or voice actors in the anime/manga.
+- User can follow other users.
 - User can create anime recommendation list.
 
 ### Not Features List
@@ -64,14 +72,6 @@ References:
 - User cannot watch anime episodes.
 - User cannot read manga chapters.
 - Anime cannot separated into multiple seasons. So only one franchise being shown or reviewed.
-
-### Future Features List
-
-- User have to confirm their email after registration.
-- User can reset their password with reset link via email.
-- User can show their amount of likes based on their published reviews and lists.
-- User can see the list of characters or voice actors in the anime/manga.
-- User can follow other users.
 
 ---
 
