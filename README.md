@@ -59,6 +59,7 @@ References:
 
 ### Future Features List
 
+- Item can be linked between manga and anime in ItemDetail with a switch button or something similar.
 - User can interact with other user through user profile and anime review.
 - User have to confirm their email after registration.
 - User can reset their password with reset link via email.
@@ -66,6 +67,7 @@ References:
 - User can see the list of characters or voice actors in the anime/manga.
 - User can follow other users.
 - User can create anime recommendation list.
+- Hero background Image can be automatically randomized at certain timing.
 
 ### Not Features List
 
