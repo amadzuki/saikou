@@ -1,43 +1,48 @@
 # Saikou
 
-This is a special project on Azobu Mentorship program.
+> _An alternative when myanimelist can't pleased your eyes_
+
+Saikou is a complete web app (client) and API (server) built using MERN stacks which based on JavaScript.
+
+|                             saikou-client                             |                               saikou-server                               |
+| :-------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+| [![Web](screenshots/saikou-web.png)](https://saikou.ahmadmarzuki.com) | [![API](screenshots/saikou-api.png)](https://saikou.api.ahmadmarzuki.com) |
 
 ---
 
 ## Ideas
 
-This project is decided to be the creation of **social media for pop culture fans and communities**.
+This project is intended to be the creation of **social media for anime & manga fans and communities**.
 It will be the place for fans to share their interests each other.
 It can be in the form of private chat, public discussion, reviews, recommendations, etc.
 
 ### Research
 
-Research to reverse engineer every essential elements for a social community site.
+> Reverse engineer essential elements for a social community site.
 
-Join these communities to identify the pros and cons from each of them.
+Join these pop culture communities to identify the pros and cons from each of them.
 
 - [MyAnimelist](https://myanimelist.net)
-- [LINE OpenChat](https://line.me/ti/g2/d1YUYNUZ_tJDH0ywSe3VyQ)
-- [Anime Planet](https://anime-planet.com)
-- [YourStack](https://yourstack.com)
 - [Anilist](https://anilist.co/)
+- [Anime Planet](https://anime-planet.com)
+- [kitsu.io](https://kitsu.io/explore/anime)
+- [LINE OpenChat](https://line.me/ti/g2/d1YUYNUZ_tJDH0ywSe3VyQ)
 
-Database:
+API examples:
 
-- [Jikan](https://jikan.moe)
-  - [Documentation](https://jikan.docs.apiary.io)
+- [jikan.moe](https://jikan.docs.apiary.io/)
+- [kitsu.io](https://kitsu.docs.apiary.io/)
+
+References:
+
+- [VIZ](https://www.viz.com/)
+- [azobu web template](https://template.azobu.com)
+- [YourStack](https://yourstack.com)
 
 Misc:
 
 - [Jurnal Otaku](http://jurnalotaku.com)
 - [KAORI Nusantara](https://www.kaorinusantara.or.id)
-
-References:
-
-- [viz](https://www.viz.com/)
-- [Anime Planet](https://anime-planet.com)
-- [Anichart](https://anichart.net)
-- [Anilist](https://anilist.co/)
 
 ## Features
 
@@ -81,7 +86,7 @@ References:
 
 ### Mockup/Prototype
 
-Figma: https://www.figma.com/file/j4lco2gQyoGtrY47DnzoTl/Saigo-no-Azobu
+Figma: click [here](https://www.figma.com/file/j4lco2gQyoGtrY47DnzoTl/Saigo-no-Azobu)
 
 ### Pages
 
